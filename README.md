@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on unit testing<br>🌱 I’m currently learning python<br>💬 Ask me about anything!<br>⚡ Learn&Grow
+🔭 Learning Unit Testing<br>🌱 Learning C++<br>💬 Ask me about anything!<br>⚡ Learn&Grow
 
 
 ## 🌐 Socials:
